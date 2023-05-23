@@ -5,6 +5,8 @@ VisualStudioVersion = 17.6.33712.159
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Oops", "Oops\Oops.csproj", "{54F2F32E-4A79-44CB-A1C0-D55861E114CC}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Photo_Album", "Photo_Album\Photo_Album.csproj", "{FFAE8490-C575-4B4C-8B4A-F02964B882FA}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{54F2F32E-4A79-44CB-A1C0-D55861E114CC}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{54F2F32E-4A79-44CB-A1C0-D55861E114CC}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{54F2F32E-4A79-44CB-A1C0-D55861E114CC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FFAE8490-C575-4B4C-8B4A-F02964B882FA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FFAE8490-C575-4B4C-8B4A-F02964B882FA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FFAE8490-C575-4B4C-8B4A-F02964B882FA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FFAE8490-C575-4B4C-8B4A-F02964B882FA}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
