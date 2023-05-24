@@ -3,9 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.6.33712.159
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Oops", "Oops\Oops.csproj", "{54F2F32E-4A79-44CB-A1C0-D55861E114CC}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Oops", "Oops\Oops.csproj", "{54F2F32E-4A79-44CB-A1C0-D55861E114CC}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Photo_Album", "Photo_Album\Photo_Album.csproj", "{FFAE8490-C575-4B4C-8B4A-F02964B882FA}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Photo_Album", "Photo_Album\Photo_Album.csproj", "{FFAE8490-C575-4B4C-8B4A-F02964B882FA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Vehicles", "Vehicles\Vehicles.csproj", "{A7EA2C94-19B8-4B7A-BD57-B78EB2D03787}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +23,10 @@ Global
 		{FFAE8490-C575-4B4C-8B4A-F02964B882FA}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{FFAE8490-C575-4B4C-8B4A-F02964B882FA}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{FFAE8490-C575-4B4C-8B4A-F02964B882FA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A7EA2C94-19B8-4B7A-BD57-B78EB2D03787}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A7EA2C94-19B8-4B7A-BD57-B78EB2D03787}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A7EA2C94-19B8-4B7A-BD57-B78EB2D03787}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A7EA2C94-19B8-4B7A-BD57-B78EB2D03787}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
